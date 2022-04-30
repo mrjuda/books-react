@@ -1,6 +1,6 @@
 # Books (React version)
 ## 📑 Project description
-**Build v0.1**
+**Build v1.1**
 
 The Books project was built using ReactJS, SCSS, HTML, and tested through Jest.
 This is a React/Redux project for educational purposes only.
