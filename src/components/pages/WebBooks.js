@@ -2,6 +2,7 @@
 
 import '../styles/WebBooks.css';
 import BookContainer from './BookContainer';
+import AddBook from './AddBook';
 
 function WebBooks() {
   return (
@@ -17,6 +18,7 @@ function WebBooks() {
         <br />
       </div>
       <BookContainer />
+      <AddBook />
     </div>
   );
 }

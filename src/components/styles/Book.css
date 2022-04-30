@@ -19,31 +19,14 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 0.1rem solid #ddd;
 }
 
 .book .title {
   padding: 0;
 }
 
-.book button {
-  background: #ddd;
-  border: none;
-  border-radius: 0.2rem;
-  width: 4rem;
-  height: 2rem;
-  cursor: pointer;
-}
-
-.book button:hover {
-  background-color: #ccc;
-}
-
-.book button:active {
-  background-color: #bbb;
-}
-
 .book:nth-child(2n+1) {
-  background-color: #eee;
+  background-color: #f6f6f6;
 }
 /*# sourceMappingURL=Book.css.map */

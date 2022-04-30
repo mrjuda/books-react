@@ -1,6 +1,5 @@
 // Book.js
 /* eslint-disable arrow-body-style */
-
 // import React, { useState, useEffect } from 'react';
 import '../styles/Book.css';
 
