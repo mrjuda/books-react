@@ -10,6 +10,11 @@ const AddBook = () => {
       <input
         type="text"
         className="add-book-text"
+        placeholder="Add a Author"
+      />
+      <input
+        type="text"
+        className="add-book-text"
         placeholder="Add a book"
       />
       <button type="submit" className="add-book-submit">
