@@ -1,0 +1,45 @@
+// Book.scss
+
+.book-div {
+  margin: 0;
+}
+
+.book-container {
+  border: solid #ccc 0.1rem;
+}
+
+.book {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #ddd;
+
+  .title {
+    padding: 0;
+
+  }
+
+  button {
+    background: #ddd;
+    border: none;
+    border-radius: 0.2rem;
+    width: 4rem;
+    height: 2rem;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #ccc;
+  }
+
+  button:active {
+    background-color: #bbb;
+  }
+}
+
+.book:nth-child(2n+1) {
+  background-color: #eee;
+}

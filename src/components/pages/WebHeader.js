@@ -1,6 +1,6 @@
 // WebHeader.js
 
-import './styles/WebHeader.css';
+import '../styles/WebHeader.css';
 
 function WebHeader() {
   return (

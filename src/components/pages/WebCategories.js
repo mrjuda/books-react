@@ -1,6 +1,6 @@
 // WebCategories.js
 
-import './styles/WebCategories.css';
+import '../styles/WebCategories.css';
 
 function WebCategories() {
   return (

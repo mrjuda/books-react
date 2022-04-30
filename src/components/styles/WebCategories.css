@@ -9,35 +9,29 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding: 2rem;
   gap: 1rem;
 }
 
 button {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.2rem;
   color: #333;
-  background-color: #fff;
-  border: solid #ccc 0.1rem;
-  min-width: 4rem;
-  min-height: 2.6rem;
-  height: 10vh;
+  background-color: #eee;
+  border: none;
+  border-radius: 0.4rem;
   padding: 0.4rem;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #eee;
+  background-color: #ddd;
 }
 
 button:active {
-  font-size: 1.4rem;
-  background-color: #aaa;
+  background-color: #ccc;
   font-weight: bolder;
 }
 
 .quote {
   font-size: 1.4rem;
-  font-weight: 700;
 }
 /*# sourceMappingURL=WebCategories.css.map */

@@ -1,8 +1,9 @@
-// WebHome.js
+// WebBooks.js
 
-import './styles/WebHome.css';
+import '../styles/WebBooks.css';
+import BookContainer from './BookContainer';
 
-function WebHome() {
+function WebBooks() {
   return (
     <div className="WebPage">
       <h2 className="HeaderTitle">
@@ -13,9 +14,11 @@ function WebHome() {
           A room without books is like a body without a soul.
           ― Marcus Tullius Cicero
         </p>
+        <br />
       </div>
+      <BookContainer />
     </div>
   );
 }
 
-export default WebHome;
+export default WebBooks;
