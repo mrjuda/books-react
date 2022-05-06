@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "windows"]*/
 // WebCategories.js
 
 import '../styles/WebCategories.css';

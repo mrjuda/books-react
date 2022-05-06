@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "windows"]*/
 // WebBooks.js
 
 import '../styles/WebBooks.css';

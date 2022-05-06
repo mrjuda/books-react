@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "windows"]*/
 // Book.js
 
 import '../styles/Book.css';

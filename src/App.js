@@ -1,5 +1,7 @@
 // App.js
 
+/*eslint linebreak-style: ["error", "windows"]*/
+
 import React from 'react';
 import './App.css';
 import { Route, Routes } from 'react-router-dom';

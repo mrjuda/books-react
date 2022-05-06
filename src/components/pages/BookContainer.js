@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "windows"]*/
 // BookContainer.js
 
 import '../styles/BookContainer.css';
