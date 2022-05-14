@@ -1,4 +1,3 @@
-/*eslint linebreak-style: ["error", "windows"]*/
 // reportWebVitals.js
 
 const reportWebVitals = (onPerfEntry) => {

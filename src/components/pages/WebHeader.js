@@ -1,4 +1,3 @@
-/*eslint linebreak-style: ["error", "windows"]*/
 // WebHeader.js
 
 import '../styles/WebHeader.css';

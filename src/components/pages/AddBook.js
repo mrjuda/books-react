@@ -1,4 +1,3 @@
-/*eslint linebreak-style: ["error", "windows"]*/
 // AddBook.js
 
 import '../styles/AddBook.css';
