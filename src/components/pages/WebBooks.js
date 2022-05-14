@@ -1,8 +1,12 @@
+/* eslint-disable no-unused-vars */
 // WebBooks.js
 
 import '../styles/WebBooks.css';
 import BookContainer from './BookContainer';
 import AddBook from './AddBook';
+import { BooksList } from '../../features/books/BooksList';
+import { AddBookForm } from '../../features/books/AddBookForm';
+import { Categories } from '../../features/categories/categories';
 
 function WebBooks() {
   return (
@@ -17,6 +21,8 @@ function WebBooks() {
         </p>
         <br />
       </div>
+      <BooksList />
+      <AddBookForm />
       <BookContainer />
       <AddBook />
     </div>

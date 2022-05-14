@@ -14,10 +14,13 @@
   align-items: center;
   list-style-type: none;
   margin: 0;
-  padding: 0;
   border-bottom: 0.1rem solid #ddd;
 
   .title {
+    padding: 0;
+  }
+
+  .author {
     padding: 0;
   }
 }
