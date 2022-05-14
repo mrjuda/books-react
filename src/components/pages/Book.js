@@ -1,5 +1,6 @@
 // Book.js
 
+import React from 'react';
 import '../styles/Book.css';
 
 const Book = () => (

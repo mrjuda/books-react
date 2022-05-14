@@ -1,5 +1,6 @@
 // WebHeader.js
 
+import React from 'react';
 import '../styles/WebHeader.css';
 
 function WebHeader() {

@@ -1,5 +1,6 @@
 // WebCategories.js
 
+import React from 'react';
 import '../styles/WebCategories.css';
 
 function WebCategories() {
